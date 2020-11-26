@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PersonapiApplication<personapi>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "one.digitalinnovation.personapi.PersonapiApplication",
+            "projectName": "personapi",
+            "args": ""
+        }
+    ]
+}
