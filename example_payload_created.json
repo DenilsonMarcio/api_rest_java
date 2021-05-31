@@ -1,0 +1,12 @@
+{
+    "birthDate": "06-04-1982", 
+    "cpf": "679.537.790-30",
+    "firstName": "Cleyton",
+    "lastName": "Alves",
+    "phones": [
+      {
+        "number": "(11)98888-8888",
+        "type": "COMMERCIAL"
+      }
+    ]
+  }

@@ -1,0 +1,13 @@
+/home/moppahtech/Área de Trabalho/Everis/Jonata-Shadow/Projetos-Shadow/api_people_dio/api_rest_java/src/main/java/one/digitalinnovation/personapi/repository/PersonRepository.java
+/home/moppahtech/Área de Trabalho/Everis/Jonata-Shadow/Projetos-Shadow/api_people_dio/api_rest_java/src/main/java/one/digitalinnovation/personapi/entity/Person.java
+/home/moppahtech/Área de Trabalho/Everis/Jonata-Shadow/Projetos-Shadow/api_people_dio/api_rest_java/src/main/java/one/digitalinnovation/personapi/service/PersonService.java
+/home/moppahtech/Área de Trabalho/Everis/Jonata-Shadow/Projetos-Shadow/api_people_dio/api_rest_java/src/main/java/one/digitalinnovation/personapi/dto/request/PersonDTO.java
+/home/moppahtech/Área de Trabalho/Everis/Jonata-Shadow/Projetos-Shadow/api_people_dio/api_rest_java/src/main/java/one/digitalinnovation/personapi/enums/PhoneType.java
+/home/moppahtech/Área de Trabalho/Everis/Jonata-Shadow/Projetos-Shadow/api_people_dio/api_rest_java/src/main/java/one/digitalinnovation/personapi/config/SwaggerConfig.java
+/home/moppahtech/Área de Trabalho/Everis/Jonata-Shadow/Projetos-Shadow/api_people_dio/api_rest_java/src/main/java/one/digitalinnovation/personapi/exception/PersonNotFoundException.java
+/home/moppahtech/Área de Trabalho/Everis/Jonata-Shadow/Projetos-Shadow/api_people_dio/api_rest_java/src/main/java/one/digitalinnovation/personapi/PersonapiApplication.java
+/home/moppahtech/Área de Trabalho/Everis/Jonata-Shadow/Projetos-Shadow/api_people_dio/api_rest_java/src/main/java/one/digitalinnovation/personapi/controller/PersonController.java
+/home/moppahtech/Área de Trabalho/Everis/Jonata-Shadow/Projetos-Shadow/api_people_dio/api_rest_java/src/main/java/one/digitalinnovation/personapi/dto/request/PhoneDTO.java
+/home/moppahtech/Área de Trabalho/Everis/Jonata-Shadow/Projetos-Shadow/api_people_dio/api_rest_java/src/main/java/one/digitalinnovation/personapi/entity/Phone.java
+/home/moppahtech/Área de Trabalho/Everis/Jonata-Shadow/Projetos-Shadow/api_people_dio/api_rest_java/src/main/java/one/digitalinnovation/personapi/dto/response/MessageResponseDTO.java
+/home/moppahtech/Área de Trabalho/Everis/Jonata-Shadow/Projetos-Shadow/api_people_dio/api_rest_java/src/main/java/one/digitalinnovation/personapi/mapper/PersonMapper.java
